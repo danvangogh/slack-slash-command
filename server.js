@@ -6,6 +6,8 @@ const sayings = [
   "You're not wrong.",
   "Glorious",
   "Kids these days, I tell ya.",
+  "You're hired, you got the job!",
+  "I don't even work here!",
   "{{ probably_a_dad_joke }}",
 ]
 
